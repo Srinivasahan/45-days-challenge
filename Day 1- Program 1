@@ -1,6 +1,6 @@
 //It is a problem in leetcode - https://leetcode.com/problems/palindrome-number/submissions/989141347/
 //java
-//Jul 8 23
+// Jul 8 23
 class Solution {
     public boolean isPalindrome(int x) {
         int y=x,res=0,len=0;
