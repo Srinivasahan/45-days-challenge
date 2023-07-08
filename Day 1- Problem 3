@@ -1,6 +1,6 @@
 //its in Leetcode - https://leetcode.com/problems/happy-number/submissions/989322601/
 //java
-// 8 Jul 23
+//8 Jul 23
 class Solution {
     public boolean isHappy(int n) {
            if(n==1) return true;
