@@ -1,0 +1,16 @@
+//It is a problem in leetcode - https://leetcode.com/problems/palindrome-number/submissions/989141347/
+class Solution {
+    public boolean isPalindrome(int x) {
+        int y=x,res=0,len=0;
+        if(x==0) return true;
+        if(x%10==0||x<0) return false;
+        while(x!=0){
+            len++;
+            int rem=x%10;
+            res=res*10+rem;
+            x/=10;
+        }
+        if(len==1||res==y) return true;
+        return false;
+    }
+}
