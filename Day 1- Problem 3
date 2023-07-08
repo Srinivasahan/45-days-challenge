@@ -1,0 +1,16 @@
+//its in Leetcode - https://leetcode.com/problems/happy-number/submissions/989322601/
+//java
+// 8 Jul 23
+class Solution {
+    public boolean isHappy(int n) {
+           if(n==1) return true;
+           if(n>1&&n<=4) return false;
+           int res=0;
+           while(n>0){
+               int m=n%10;
+               res+=m*m;
+               n/=10;
+        }
+        return isHappy(res);
+    }
+}
