@@ -1,5 +1,5 @@
 //Its in Leetcode-https://leetcode.com/problems/minimum-moves-to-equal-array-elements/submissions/989878982/
-//java
+//java easy
 //9 Jul 23
 class Solution {
     public int minMoves(int[] nums) {
