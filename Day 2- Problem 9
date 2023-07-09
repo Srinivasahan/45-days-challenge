@@ -1,0 +1,19 @@
+//Its Leetcode-https://leetcode.com/problems/valid-parentheses/submissions/989896246/
+//C++(made using stack) easy
+//9 jul 23
+class Solution {
+public:
+    bool isValid(string s) {
+        if(s.length()<=1||s[0]==']'||s[0]=='}'||s[0]==')') return false;
+        stack <char> st;
+        st.push('1');
+        for(int i=0;i<s.length();i++){
+            if(s[i]=='('||s[i]=='['||s[i]=='{') st.push(s[i]);
+            else if(s[i]==')'&&st.top()=='(') st.pop();
+            else if(s[i]==']'&&st.top()=='[') st.pop();
+            else if(s[i]=='}'&&st.top()=='{') st.pop();
+            else return false;
+        }
+        return (st.top()=='1');
+    }
+};
