@@ -1,6 +1,6 @@
 //Its LeetCode easy-https://leetcode.com/problems/missing-number/submissions/989458407/
 //Java
-//8 Jul 23
+//11 Jul 23
 class Solution {
     public int missingNumber(int[] nums) {
         int n=nums.length,sum=n*(n+1)/2;
