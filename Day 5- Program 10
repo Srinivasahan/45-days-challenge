@@ -1,6 +1,6 @@
 //Its Leetcode-https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/submissions/989936463/
 //C++
-//9 Jul 23
+//12 Jul 23
 class Solution {
 public:
     int strStr(string haystack, string needle) {
