@@ -1,6 +1,6 @@
 //Its Leetcode-https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/990152670/
 //Java
-//9 Jul 23
+//14 Jul 23
 class Solution {
     public int removeDuplicates(int[] nums) {
         int i=0;
