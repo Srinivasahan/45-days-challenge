@@ -1,6 +1,6 @@
 //Leetcode-https://leetcode.com/problems/valid-palindrome-ii/submissions/993183611/
 //Java-easy
-//13 jul 23
+//17 jul 23
 class Solution {
 public:
     bool check(string a,int i,int j){
