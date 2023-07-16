@@ -1,6 +1,6 @@
 //Its Leetcode-https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/990130102/
 //java
-//9 Jul 23
+//13 Jul 23
 class Solution {
     public int maxProfit(int[] prices) {
         int n=prices.length,min=prices[0],profit=0,res=0;
