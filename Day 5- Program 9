@@ -1,6 +1,6 @@
 //Its Leetcode-https://leetcode.com/problems/valid-parentheses/submissions/989896246/
 //C++(made using stack) easy
-//9  jul 23
+//12  jul 23
 class Solution {
 public:
     bool isValid(string s) {
