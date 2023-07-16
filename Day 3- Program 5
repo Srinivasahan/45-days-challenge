@@ -1,6 +1,6 @@
 //Its done in Leetcode- https://leetcode.com/problems/maximum-product-of-three-numbers/submissions/989404712/
 //java
-//8 Jul 23
+//10 Jul 23
 class Solution {
     public int maximumProduct(int[] nums) {
         int n=nums.length,res1,res2,res;
