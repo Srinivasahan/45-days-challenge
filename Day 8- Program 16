@@ -1,6 +1,6 @@
 //Its Leetcode- https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/submissions/990788037/
 //c++-easy
-//10 Jul 23
+//15 Jul 23
 /**
  * Definition for singly-linked list.
  * struct ListNode {
