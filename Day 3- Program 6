@@ -1,6 +1,6 @@
 //Its done in LeetCode - https://leetcode.com/problems/power-of-two/submissions/989454890/
 //java
-//8 Jul 23
+//10 Jul 23
 class Solution {
     public boolean isPowerOfTwo(int n) {
         if(n==0) return false;
