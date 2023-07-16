@@ -1,6 +1,7 @@
 //Leetcode-https://leetcode.com/problems/middle-of-the-linked-list/submissions/993139033/
 //java easy
 //16 Jul 23 
+
 /**
  * Definition for singly-linked list.
  * public class ListNode {
