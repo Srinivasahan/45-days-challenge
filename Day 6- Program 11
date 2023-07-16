@@ -1,6 +1,6 @@
 //Its Leetcode-https://leetcode.com/problems/two-sum/submissions/989969880/
 //Java-easy
-//9 Jul 23
+//13 Jul 23
 class Solution {
     public int[] twoSum(int[] nums, int target) {
         int n =nums.length;
