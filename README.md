@@ -8,4 +8,5 @@ Day 6   - 13 Jul 23 - Problems solved - 2 : Problems solved till now - 12.
 Day 7   - 14 Jul 23 - Problems solved - 2 : Problems solved till now - 14.
 Day 8   - 15 Jul 23 - Problems solved - 2 : Problems solved till now - 16.
 Day 9   - 16 Jul 23 - Problems solved - 2 : Problems solved till now - 18.
-Day 10  - 17 Jul 23 - Problems solved - 3 : Problems solved till now - 21.
+Day 10  - 17 Jul 23 - Problems solved - 2 : Problems solved till now - 20.
+Day 11  - 18 Jul 23 - Problems solved - 2 : Problems solved till now - 22.
